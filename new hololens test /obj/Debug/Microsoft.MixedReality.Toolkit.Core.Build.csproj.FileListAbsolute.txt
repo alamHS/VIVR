@@ -368,3 +368,9 @@
 /Users/hibahalam/Documents/VIVR/new hololens test/obj/Debug/Microsoft.MixedReality.Toolkit.Core.Build.csproj.CopyComplete
 /Users/hibahalam/Documents/VIVR/new hololens test/obj/Debug/Microsoft.MixedReality.Toolkit.Core.Build.dll
 /Users/hibahalam/Documents/VIVR/new hololens test/obj/Debug/Microsoft.MixedReality.Toolkit.Core.Build.pdb
+/Users/hibahalam/Documents/VIVR/new hololens test /Temp/bin/Debug/Microsoft.MixedReality.Toolkit.Core.Build.dll
+/Users/hibahalam/Documents/VIVR/new hololens test /Temp/bin/Debug/Microsoft.MixedReality.Toolkit.Core.Build.pdb
+/Users/hibahalam/Documents/VIVR/new hololens test /obj/Debug/Microsoft.MixedReality.Toolkit.Core.Build.csproj.CoreCompileInputs.cache
+/Users/hibahalam/Documents/VIVR/new hololens test /obj/Debug/Microsoft.MixedReality.Toolkit.Core.Build.csproj.CopyComplete
+/Users/hibahalam/Documents/VIVR/new hololens test /obj/Debug/Microsoft.MixedReality.Toolkit.Core.Build.dll
+/Users/hibahalam/Documents/VIVR/new hololens test /obj/Debug/Microsoft.MixedReality.Toolkit.Core.Build.pdb

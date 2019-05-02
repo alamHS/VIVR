@@ -363,3 +363,9 @@
 /Users/hibahalam/Documents/VIVR/new hololens test/obj/Debug/Microsoft.MixedReality.Toolkit.Core.Extensions.EditorClassExtensions.csproj.CopyComplete
 /Users/hibahalam/Documents/VIVR/new hololens test/obj/Debug/Microsoft.MixedReality.Toolkit.Core.Extensions.EditorClassExtensions.dll
 /Users/hibahalam/Documents/VIVR/new hololens test/obj/Debug/Microsoft.MixedReality.Toolkit.Core.Extensions.EditorClassExtensions.pdb
+/Users/hibahalam/Documents/VIVR/new hololens test /Temp/bin/Debug/Microsoft.MixedReality.Toolkit.Core.Extensions.EditorClassExtensions.dll
+/Users/hibahalam/Documents/VIVR/new hololens test /Temp/bin/Debug/Microsoft.MixedReality.Toolkit.Core.Extensions.EditorClassExtensions.pdb
+/Users/hibahalam/Documents/VIVR/new hololens test /obj/Debug/Microsoft.MixedReality.Toolkit.Core.Extensions.EditorClassExtensions.csproj.CoreCompileInputs.cache
+/Users/hibahalam/Documents/VIVR/new hololens test /obj/Debug/Microsoft.MixedReality.Toolkit.Core.Extensions.EditorClassExtensions.csproj.CopyComplete
+/Users/hibahalam/Documents/VIVR/new hololens test /obj/Debug/Microsoft.MixedReality.Toolkit.Core.Extensions.EditorClassExtensions.dll
+/Users/hibahalam/Documents/VIVR/new hololens test /obj/Debug/Microsoft.MixedReality.Toolkit.Core.Extensions.EditorClassExtensions.pdb

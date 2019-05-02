@@ -369,3 +369,10 @@
 /Users/hibahalam/Documents/VIVR/new hololens test/obj/Debug/Microsoft.MixedReality.Toolkit.Core.Inspectors.csproj.CopyComplete
 /Users/hibahalam/Documents/VIVR/new hololens test/obj/Debug/Microsoft.MixedReality.Toolkit.Core.Inspectors.dll
 /Users/hibahalam/Documents/VIVR/new hololens test/obj/Debug/Microsoft.MixedReality.Toolkit.Core.Inspectors.pdb
+/Users/hibahalam/Documents/VIVR/new hololens test /Temp/bin/Debug/Microsoft.MixedReality.Toolkit.Core.Inspectors.dll
+/Users/hibahalam/Documents/VIVR/new hololens test /Temp/bin/Debug/Microsoft.MixedReality.Toolkit.Core.Inspectors.pdb
+/Users/hibahalam/Documents/VIVR/new hololens test /obj/Debug/Microsoft.MixedReality.Toolkit.Core.Inspectors.csprojAssemblyReference.cache
+/Users/hibahalam/Documents/VIVR/new hololens test /obj/Debug/Microsoft.MixedReality.Toolkit.Core.Inspectors.csproj.CoreCompileInputs.cache
+/Users/hibahalam/Documents/VIVR/new hololens test /obj/Debug/Microsoft.MixedReality.Toolkit.Core.Inspectors.csproj.CopyComplete
+/Users/hibahalam/Documents/VIVR/new hololens test /obj/Debug/Microsoft.MixedReality.Toolkit.Core.Inspectors.dll
+/Users/hibahalam/Documents/VIVR/new hololens test /obj/Debug/Microsoft.MixedReality.Toolkit.Core.Inspectors.pdb

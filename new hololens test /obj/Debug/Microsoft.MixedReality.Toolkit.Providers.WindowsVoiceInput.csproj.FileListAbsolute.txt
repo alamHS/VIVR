@@ -368,3 +368,4 @@
 /Users/hibahalam/Documents/VIVR/new hololens test/obj/Debug/Microsoft.MixedReality.Toolkit.Providers.WindowsVoiceInput.csproj.CopyComplete
 /Users/hibahalam/Documents/VIVR/new hololens test/obj/Debug/Microsoft.MixedReality.Toolkit.Providers.WindowsVoiceInput.dll
 /Users/hibahalam/Documents/VIVR/new hololens test/obj/Debug/Microsoft.MixedReality.Toolkit.Providers.WindowsVoiceInput.pdb
+/Users/hibahalam/Documents/VIVR/new hololens test /obj/Debug/Microsoft.MixedReality.Toolkit.Providers.WindowsVoiceInput.csproj.CoreCompileInputs.cache

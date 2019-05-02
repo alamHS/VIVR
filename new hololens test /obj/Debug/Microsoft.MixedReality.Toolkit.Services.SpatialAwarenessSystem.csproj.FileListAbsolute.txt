@@ -369,3 +369,9 @@
 /Users/hibahalam/Documents/VIVR/new hololens test/obj/Debug/Microsoft.MixedReality.Toolkit.Services.SpatialAwarenessSystem.csproj.CopyComplete
 /Users/hibahalam/Documents/VIVR/new hololens test/obj/Debug/Microsoft.MixedReality.Toolkit.Services.SpatialAwarenessSystem.dll
 /Users/hibahalam/Documents/VIVR/new hololens test/obj/Debug/Microsoft.MixedReality.Toolkit.Services.SpatialAwarenessSystem.pdb
+/Users/hibahalam/Documents/VIVR/new hololens test /Temp/bin/Debug/Microsoft.MixedReality.Toolkit.Services.SpatialAwarenessSystem.dll
+/Users/hibahalam/Documents/VIVR/new hololens test /Temp/bin/Debug/Microsoft.MixedReality.Toolkit.Services.SpatialAwarenessSystem.pdb
+/Users/hibahalam/Documents/VIVR/new hololens test /obj/Debug/Microsoft.MixedReality.Toolkit.Services.SpatialAwarenessSystem.csproj.CoreCompileInputs.cache
+/Users/hibahalam/Documents/VIVR/new hololens test /obj/Debug/Microsoft.MixedReality.Toolkit.Services.SpatialAwarenessSystem.csproj.CopyComplete
+/Users/hibahalam/Documents/VIVR/new hololens test /obj/Debug/Microsoft.MixedReality.Toolkit.Services.SpatialAwarenessSystem.dll
+/Users/hibahalam/Documents/VIVR/new hololens test /obj/Debug/Microsoft.MixedReality.Toolkit.Services.SpatialAwarenessSystem.pdb
